@@ -13,7 +13,7 @@ including
 - "How did this campaign perform?",
 - "Which channel is referring the most subscribers?",
 - "Why is a particular channel underperforming?" 
-Those exploratory questions lead us to explanatory Analysis " Why did certain marketing channels (Home Ad) see lower than usual conversion rates during late January " 
+Those exploratory questions lead us to explanatory Analysis " Why did certain marketing channels (Home Ad) see lower than usual conversion rates during late January" 
 <br>
 Performed A/B Test and the Treatment was "sending Personalized Emails", Tha Analysis focused on not only the test result overall, but the importance of segmentation when interpreting the results of a test. it works overall fine, but by further Investigation on age segmentation young people show positive interest more in older people.
 <br>
