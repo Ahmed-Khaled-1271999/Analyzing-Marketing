@@ -1,0 +1,15 @@
+feat: Add .html File of .ipynb 
+
+That is Important because the Repository is meant to be Read-Only
+any Mutation Try for Python scripts may not re run prperly for reasons such our .csv files
+are not provided to public. 
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   Marketing Campaigns.html
+#
